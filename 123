@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="UTF-8">
+    <title></title>
+</head>
+<body> 
+<h1 style="color:red">小嘟嘟个人网页</h1>
+<hr style="height:5px">
+<p>姓名;小嘟</p>
+<p>年龄;3岁</p>
+<p u style="font-size:10px">喜欢睡觉</p>
+<p u style="font-size:10px">喜欢吃饭</p>
+<p u style="font-size:10px">喜欢玩乐</p>
+<i>然后我这个要做斜体字</i>
+<p>我是世界上<i>最好看</i>的嘟</p>
+<p>啦啦啦<b>我不管</b></p>
+<b style="font-size:20px;">但我不喜欢陌生人</b>
+<u><b><h2 u style="font-size:25px"><b  style="background-color:pink">这是我的妈妈</b></h2></b></u>
+<p><img src="http://wx2.sinaimg.cn/thumb180/71f81b09ly1fgjk9dvzifj20bq0e8q5o.jpg"/></p>
+<hr/>
+<div style="border:1px red dashed;">
+<h3>我常去的地方</h3>
+<ul>
+<li>幼儿园</li>
+<li>小班</li>
+<li>小卖部</li>   
+</ul>
+</div>
+    <hr>
+<h3>最近想去的地方</h3>
+<ol>
+<li style="margin-top:20px;">小学
+</li>
+<li style="margin-top:20px;">超市
+</li>
+<li style="margin-top:20px;">学前班
+</li>
+</ol>
+<hr>
+
+<p style="font-family:Times News Roman;"> 我会的数字 </p>
+<table border="1" style="border-color:grey">
+<tr>
+<td styley="padding-top">1</td>
+    
+<td styley="padding:30px">2</td>
+</tr>
+<tr>
+<td styley="padding:30px">3</td>
+<td styley="padding:30px">4</td>
+</tr>
+</table>    
+<hr/>
+<h3>我拍过的视频</h3>
+<video width="200" src="http://resource.haorenao.cn/cxy720-2.mp4" controls></video>
+<hr/>
+<h2>我的微博链接<h2>
+      <a href="http://www.youdao.com/w/eng/border/#keyfrom=dict2.index">个人</a>
+<h1 style="text-align; center:">这是标题 1</h1>
+<h2 style="text-align; left:">这是标题 2</h2> 
+<h3 style="text-align;right:">这是标题 3</h3> 
+<p style="float:left;margin-right:30px;">REACTIONS</p>
+<p style="float:left;margin-right:30px;">ENTERTAINMENT</p>
+<p style="float:left;margin-right:30px;">SPORTS</p>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/2f/d8/3c/2fd83c3e70cf30f04546d28700303b27.jpg" style="position:absolute;top:50px;left:350px;">
+<div>
+    <h3>This is a heade</h3>
+    <p>this is a paragraph</p>
+</div>
+<div style="border:solid 1px;position: abosulute;top: 100px;left: 200px:">
+    <h3>This is a heade</h3>
+    <p>this is a paragraph</p>
+</div>
+ 
+</body> 
+   
+</html>
